@@ -1,6 +1,6 @@
 <h3 align="center">Mahiyan Khan Abir</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahiyan-Khan-Abir](https://github.com/Mahiyan-Khan-Abir)
 
