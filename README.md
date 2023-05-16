@@ -1,6 +1,6 @@
 <h3 align="center">Mahiyan Khan Abir</h3>
 
-- **Artificial Intelligence engineer**
+- **Artificial Intelligence Enthusiast**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahiyan-Khan-Abir](https://github.com/Mahiyan-Khan-Abir)
 
